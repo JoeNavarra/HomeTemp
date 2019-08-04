@@ -1,11 +1,11 @@
 ---
-title: Product 1 Name
-subtitle: Product 1 tagline here
-description: This is a product description
-product_code: ABC124
+title: Grout Dispensing Tool
+subtitle: IEEE ROV Team at Purdue University
+description: Tool designed to dispense 1" to 3" rocks from an underwater reobot.
+product_code: The Grouter
 layout: product
 image: https://via.placeholder.com/640x480
-price: £1.99 + VAT
+price: October 13th 2018
 features:
     - label: Great addition to any home
       icon: fa-location-arrow
