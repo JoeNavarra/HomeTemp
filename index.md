@@ -8,9 +8,9 @@ show_sidebar: false
 
 # Work Experience
 
-## United Technologies Corporation (UTC) - Carrier Corporation
-### Mechanical Engineering Intern, New Product Development
-#### May 2019 - August 2019 
+### United Technologies Corporation (UTC) - Carrier Corporation
+#### Mechanical Engineering Intern, New Product Development
+<i>May 2019 - August 2019</i>
 
 I worked here.
 It was cool.
