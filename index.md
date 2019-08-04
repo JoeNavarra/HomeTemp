@@ -2,6 +2,9 @@
 title: Joseph Michael Navarra
 subtitle: Personal Website and Portfolio
 layout: page
+callouts: home_callouts      
+show_sidebar: false
+---
 
 <button class="btn"><i class="fa fa-download"></i> Download</button>
 .btn {
@@ -15,10 +18,6 @@ layout: page
 .btn:hover {
   background-color: RoyalBlue;
 }
-
-callouts: home_callouts      
-show_sidebar: false
----
 
 style: is-light
 items:
