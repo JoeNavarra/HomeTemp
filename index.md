@@ -1,7 +1,21 @@
 ---
 title: Joseph Michael Navarra
 subtitle: Personal Website and Portfolio
-layout: page 
+layout: page
+
+<button class="btn"><i class="fa fa-download"></i> Download</button>
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 12px 30px;
+  cursor: pointer;
+  font-size: 20px;
+}
+.btn:hover {
+  background-color: RoyalBlue;
+}
+
 callouts: home_callouts      
 show_sidebar: false
 ---
