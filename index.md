@@ -1,17 +1,16 @@
 ---
 title: Joseph Michael Navarra
 subtitle: Personal Website and Portfolio
-layout: page
+layout: page 
+callouts: home_callouts      
+show_sidebar: false
+---
 
 style: is-light
 items:
   - call_to_action_name: Download
     call_to_action_link: /products/
     title: Download My Resume
-    
-callouts: home_callouts      
-show_sidebar: false
----
 
 #  Education:
 
