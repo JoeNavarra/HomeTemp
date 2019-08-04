@@ -1,12 +1,12 @@
 ---
-title: Bulma Clean Theme
-subtitle: This is the demo site for Bulma Clean Theme
+title: Joseph Michael Navarra
+subtitle: Personal Website and Portfolio
 layout: page
-callouts: home_callouts
+callouts: home_callouts      
 show_sidebar: false
 ---
 
-# Bulma Clean Theme demo website
+# Work Experience
 
 This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
 
