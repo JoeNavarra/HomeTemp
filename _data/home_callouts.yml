@@ -3,17 +3,17 @@ items:
   - call_to_action_name: View
     call_to_action_link: /page-1/
     title: My Portfolio
-    subtitle: A collections of work, school, and personal projects
+    subtitle: A collection of my work, school, and personal projects
     icon: fa-copy
     
   - call_to_action_name: Connect
     call_to_action_link: /page-1/
     title: Contact Me
-    subtitle: Email, Phone, LinkedIn
+    subtitle: Email, LinkedIn
     icon: fa-mail-bulk
     
   - call_to_action_name: About
     call_to_action_link: /page-1/
     title: Get to Know Me
-    subtitle: Quick and easy to get started
-    icon: fab fa-github
+    subtitle: A place for me to collect my memories
+    icon: fas fa-user
