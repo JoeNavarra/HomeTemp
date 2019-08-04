@@ -8,7 +8,15 @@ show_sidebar: false
 
 # Work Experience
 
-This website showcases the options for the Bulma Clean theme. The theme is available as a ruby gem or can be used with GitHub pages. 
+## United Technologies Corporation (UTC) - Carrier Corporation
+### Mechanical Engineering Intern, New Product Development
+#### May 2019 - August 2019 
+
+I worked here.
+It was cool.
+
+
+
 
 ## Ruby Gem
 
