@@ -9,11 +9,11 @@ items:
   - call_to_action_name: Connect
     call_to_action_link: /page-1/
     title: Contact Me
-    subtitle: Email, LinkedIn </br> </br>
+    subtitle: Email, LinkedIn
     icon: fa-mail-bulk
     
   - call_to_action_name: About
     call_to_action_link: /page-1/
     title: Get to Know Me
-    subtitle: My Digital Memories </br> </br>
+    subtitle: My Digital Memories
     icon: fas fa-user
