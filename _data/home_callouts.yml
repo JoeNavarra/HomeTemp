@@ -1,11 +1,19 @@
 style: is-light
 items:
-  - title: My Portfolio
+  - call_to_action_name: View
+    call_to_action_link: /page-1/
+    title: My Portfolio
     subtitle: A collections of work, school, and personal projects
     icon: fa-copy
-  - title: Contact Me
+    
+  - call_to_action_name: Connect
+    call_to_action_link: /page-1/
+    title: Contact Me
     subtitle: Email, Phone, LinkedIn
     icon: fa-mail-bulk
-  - title: Get to Know Me
+    
+  - call_to_action_name: About
+    call_to_action_link: /page-1/
+    title: Get to Know Me
     subtitle: Quick and easy to get started
     icon: fab fa-github
