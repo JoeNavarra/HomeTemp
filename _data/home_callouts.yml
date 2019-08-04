@@ -3,7 +3,7 @@ items:
   - call_to_action_name: View
     call_to_action_link: /page-1/
     title: My Portfolio
-    subtitle: Work, School, and Personal Projects
+    subtitle: My Projects
     icon: fa-copy
     
   - call_to_action_name: Connect
