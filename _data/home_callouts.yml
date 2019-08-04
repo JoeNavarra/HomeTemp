@@ -1,11 +1,11 @@
 style: is-light
 items:
-  - title: Multiple page layouts
-    subtitle: Including sidebar, menubar, tabs and callouts
+  - title: My Portfolio
+    subtitle: A collections of work, school, and personal projects
     icon: fa-copy
-  - title: Blog included
-    subtitle: Layouts for blog and post pages included
+  - title: Contact Me
+    subtitle: Email, Phone, LinkedIn
     icon: fa-mail-bulk
-  - title: Works with GitHub Pages
+  - title: Get to Know Me
     subtitle: Quick and easy to get started
     icon: fab fa-github
