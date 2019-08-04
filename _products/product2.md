@@ -4,7 +4,7 @@ subtitle: Product 2 tagline here
 product_code: ABC123
 layout: product
 image: https://via.placeholder.com/640x480
-price: £0.99 + VAT
+price: October 14th 2018
 features:
     - label: Great addition to any home
       icon: fa-location-arrow
