@@ -6,9 +6,13 @@ layout: page
 call_to_action_name: Download
 call_to_action_link: /page-1/
 -title: Download my Resume
+
 callouts: home_callouts      
 show_sidebar: false
 ---
+call_to_action_name: Download
+call_to_action_link: /page-1/
+-title: Download my Resume
 
 #  Education:
 
