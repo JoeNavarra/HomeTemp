@@ -7,7 +7,7 @@ items:
     icon: fa-copy
     
   - call_to_action_name: Connect
-    call_to_action_link: /page-1/
+    call_to_action_link: /page-2/
     title: Contact Me
     subtitle: Email, LinkedIn
     icon: fa-mail-bulk
