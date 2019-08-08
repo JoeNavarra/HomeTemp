@@ -3,6 +3,6 @@
     - name: Home
       link: /
     - name: Projects
-      link: /projects
+      link: /products
     - name: About
-      link: /about
+      link: /blog
