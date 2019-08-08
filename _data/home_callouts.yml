@@ -1,7 +1,7 @@
 style: is-light
 items:
   - call_to_action_name: View
-    call_to_action_link: /projects/
+    call_to_action_link: /products
     title: My Portfolio
     subtitle: My Work, School, and Personal Projects
     icon: fa-copy
@@ -13,7 +13,7 @@ items:
     icon: fa-mail-bulk
     
   - call_to_action_name: About
-    call_to_action_link: /about
+    call_to_action_link: /blog
     title: Get to Know Me
     subtitle: My Digital Memories
     icon: fas fa-user
