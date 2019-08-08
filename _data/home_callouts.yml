@@ -13,7 +13,7 @@ items:
     icon: fa-mail-bulk
     
   - call_to_action_name: About
-    call_to_action_link: /blog/
+    call_to_action_link: /about
     title: Get to Know Me
     subtitle: My Digital Memories
     icon: fas fa-user
