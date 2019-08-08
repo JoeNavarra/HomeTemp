@@ -1,7 +1,7 @@
 style: is-light
 items:
   - call_to_action_name: View
-    call_to_action_link: /products/
+    call_to_action_link: /projects/
     title: My Portfolio
     subtitle: My Work, School, and Personal Projects
     icon: fa-copy
