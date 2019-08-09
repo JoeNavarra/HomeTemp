@@ -44,12 +44,6 @@ As an intern at UTC, I worked on two projects over the summer of 2019. These pro
   <li>Revamp the engineering building's inventory system</li>
   <li>Create resources that justify the need for an improved inventory system</li>
 </ul>
-For the first project, I wrote a Standard Work for Clause 30 of UL 60335-1, Pursuiant to UL 60335-2-40: Resistance to Heat and Fire. The UL documents detail new safety requirements for our industry in order to align the U.S. with existing international regulations. I analyized these new requirements, amalgamated all the external references, and then submitted a full Standard Work that detailed all the industry-specific requirements, tests, test parameters and modifications, as well as the gerneral application of these tests / the types of parts they would need to be applied to.
-<br>
-The inventory project was an effort to improve the building's inventory system in terms ot infrastructure, software capabilities, and workpalce culture. All three of these categories had issues that combined to form the problem, and I came up with a brand new system that overhauled the sub-par and wildly inaccurate existing system that was previously in place. This new system improved the use cases, improved ease of use, updated procedures so that the inventory is more effectively managed, and estabished databases of existing stock parts in order to make inventory a faster and more accurate process. Coupled with new barcode scanners placed strategically throughout the building,
-<br>
-The third project:
-<br><br>
 
 ### United Technologies Corporation (UTC) - Carrier Corporation
 #### Mechanical Engineering Intern, New Product Development
